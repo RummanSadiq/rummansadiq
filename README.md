@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rumman Sadiq
-#### Full-Stack Developer | Ruby on Rails | ReactJS
+#### JavaScript Developer
 I develop amazing web applications. Currently working with FiveToNine, previously worked with HaulHub and W9Manager.
 
 
